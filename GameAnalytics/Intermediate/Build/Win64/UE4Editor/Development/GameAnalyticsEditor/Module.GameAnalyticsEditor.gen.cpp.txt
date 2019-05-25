@@ -1,0 +1,7 @@
+C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalyticsEditor\Definitions.GameAnalyticsEditor.h
+C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\GameAnalyticsEditor\GameAnalyticsEditor.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\GameAnalyticsEditor\GameAnalyticsProjectSettings.gen.cpp
+C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Source\GameAnalyticsEditor/Public/GameAnalyticsProjectSettings.h
+C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\GameAnalyticsEditor\GameAnalyticsProjectSettings.generated.h

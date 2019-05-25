@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameAnalytics.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\drsan\dev\ue4\evofashion\Intermediate\Build\Win64\EvoFashionEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalytics\Module.GameAnalytics.cpp.obj"
+"C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalytics\Module.GameAnalytics.gen.cpp.obj"
+"C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalytics\Default.rc2.res"
+/OUT:"C:\Users\drsan\dev\ue4\evofashion\Plugins\GA\GameAnalytics\Intermediate\Build\Win64\UE4Editor\Development\GameAnalytics\UE4Editor-GameAnalytics.lib"
+/INCLUDE:IMPLEMENT_MODULE_GameAnalytics
